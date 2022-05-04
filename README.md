@@ -33,7 +33,7 @@
     fim 
 
 # **FLUXOGRAMA**
-![fluxograma](fluxograma-calculo-media.svg)
+![fluxograma](https://github.com/GabrielHiro/calculo-de-media/blob/2403704fe1701ef5703289f49d45a1c81d2d9727/fluxograma-calculo-media.svg)
 
 #### Última atualização 03/05/2022
 
